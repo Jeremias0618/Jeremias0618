@@ -19,7 +19,7 @@
 ✍️ &nbsp;In my spare time, I dabble in Graphic Design and Blog Writing as hobbies.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;Feel free to email me at shinratensei569@gmail.com! I'll try to respond as soon as I can.\
-📫 &nbsp;You can also contact me by writing to me at discord [Jeremias#7436 / ryukzero](https://discord.com/users/658460199807483914).\
+📫 &nbsp;You can also contact me by writing to me at discord [Jeremias#7436 / ryukzero](https://discord.com/users/658460199807483914).
 
 <img alt="Night Coding" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" height="200" width="400" align="right"/>
 
