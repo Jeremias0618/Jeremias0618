@@ -121,19 +121,18 @@
 
 <details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
+      
+<a href="https://youtu.be/5Z_TvlVH3tE"><img src="https://ytcards.demolab.com/?id=5Z_TvlVH3tE&title=Scene+of+a+Disaster&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=139" alt="Scene of a Disaster" title="Scene of a Disaster"></a>
+<a href="https://youtu.be/KXPhmXYb2ho"><img src="https://ytcards.demolab.com/?id=KXPhmXYb2ho&title=Dragon+God+Orsted&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=295" alt="Dragon God Orsted " title="Dragon God Orsted "></a>
+<a href="https://youtu.be/3ZvAI_tVR-A"><img src="https://ytcards.demolab.com/?id=3ZvAI_tVR-A&title=Attack+on+Titan+Final+Season+-+Eren's+rumble&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=129" alt="Attack on Titan Final Season - Eren's rumble " title="Attack on Titan Final Season - Eren's rumble "></a>
+<a href="https://youtu.be/SoD8SuPPLuo"><img src="https://ytcards.demolab.com/?id=SoD8SuPPLuo&title=Attack+on+Titan+-+Opening+1+|+Guren+no+Yumiya&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=90" alt="Attack on Titan - Opening 1 | Guren no Yumiya" title="Attack on Titan - Opening 1 | Guren no Yumiya"></a>
+<a href="https://youtu.be/H-wS7O9jb7o"><img src="https://ytcards.demolab.com/?id=H-wS7O9jb7o&title=Vogel+im+Käfig+Instrumental&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=100" alt="Vogel im Käfig Instrumental - TV Anime" title="Vogel im Käfig Instrumental - TV Anime"></a>
+<a href="https://youtu.be/WPl10ZrhCtk"><img src="https://ytcards.demolab.com/?id=WPl10ZrhCtk&title=ヒグチアイ+/+悪魔の子+(アニメスペシャルVer.)&lang=en&timestamp=1632947582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=229" alt="ヒグチアイ / 悪魔の子 (アニメスペシャルVer.) " title="ヒグチアイ / 悪魔の子 (アニメスペシャルVer.) "></a>
 
-  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
-
-  <!-- prettier-ignore-start -->
-<!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://youtu.be/5Z_TvlVH3tE"><img src="https://ytcards.demolab.com/?id=5Z_TvlVH3tE&title=Scene+of+a+Disaster&lang=en&timestamp=1661864404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=312" alt="Scene of a Disaster" title="Scene of a Disaster"></a>
-<a href="https://youtu.be/KXPhmXYb2ho"><img src="https://ytcards.demolab.com/?id=KXPhmXYb2ho&title=Dragon+God+Orsted&lang=en&timestamp=1661708747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=403" alt="Dragon God Orsted " title="Dragon God Orsted "></a>
-<a href="https://youtu.be/3ZvAI_tVR-A"><img src="https://ytcards.demolab.com/?id=3ZvAI_tVR-A&title=Attack+on+Titan+Final+Season&lang=en&timestamp=1643900217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=2115" alt="Attack on Titan Final Season - Eren's rumble " title="Attack on Titan Final Season - Eren's rumble "></a>
-<a href="https://youtu.be/SoD8SuPPLuo"><img src="https://ytcards.demolab.com/?id=SoD8SuPPLuo&title=Attack+on+Titan+-+Opening+1+|+Guren+no+Yumiya&lang=en&timestamp=1642108413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=578" alt="Attack on Titan - Opening 1 | Guren no Yumiya" title="Attack on Titan - Opening 1 | Guren no Yumiya"></a>
-<a href="https://youtu.be/H-wS7O9jb7o"><img src="https://ytcards.demolab.com/?id=H-wS7O9jb7o&title=Vogel+im+Käfig+Instrumental&lang=en&timestamp=1633051808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=1188" alt="Vogel im Käfig Instrumental - TV Anime" title="Vogel im Käfig Instrumental - TV Anime"></a>
-<a href="https://youtu.be/WPl10ZrhCtk"><img src="https://ytcards.demolab.com/?id=WPl10ZrhCtk&title=ヒグチアイ+/+悪魔の子+(アニメスペシャルVer.)&lang=en&timestamp=1632947582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=1245" alt="ヒグチアイ / 悪魔の子 (アニメスペシャルVer.) " title="ヒグチアイ / 悪魔の子 (アニメスペシャルVer.) "></a>
-<!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
+  
+  <a href="https://www.youtube.com/channel/UCq_3dG8prQG1Jsn93Pusezg?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  
+</details>
 
   
   <a href="https://www.youtube.com/channel/UCq_3dG8prQG1Jsn93Pusezg?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
