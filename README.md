@@ -134,11 +134,6 @@
   
 </details>
 
-  
-  <a href="https://www.youtube.com/channel/UCq_3dG8prQG1Jsn93Pusezg?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
-  
-</details>
-
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jeremias0618&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=Jeremias0618&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
