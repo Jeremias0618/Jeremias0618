@@ -167,10 +167,10 @@
 <a href="https://twitter.com/Jeremias068"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 <a href="https://github.com/Jeremias0618"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
 <a href="https://www.reddit.com/user/Jeremias0618/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCq_3dG8prQG1Jsn93Pusezg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@DarkAriaz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 <a href="https://www.crunchyroll.com/es/"><img src="https://img.shields.io/badge/Crunchyroll-F47521?style=flat-square&logo=crunchyroll&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/hebnsgj9ie5jppc4hh4ok3heq"><img src="https://i.imgur.com/kObsvnN.png"/></a>
-<a href="https://www.twitch.tv/byte_jeremias"><img src="https://i.imgur.com/d6vmv0u.png"/></a>
+<a href="https://www.twitch.tv/darkariagaming"><img src="https://i.imgur.com/d6vmv0u.png"/></a>
 </p>
 
 -----
