@@ -1,6 +1,6 @@
 ![Jeremias Banner](https://i.imgur.com/SHwMdZ4.jpg)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq_3dG8prQG1Jsn93Pusezg?style=social)](https://www.youtube.com/@DarkAriaz)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYN5na2hancGElDwpJlKYlA)](https://www.youtube.com/@DarkAriaz)
 [![Twitch Status](https://img.shields.io/twitch/status/byte_jeremias?style=social)](https://www.twitch.tv/byte_jeremias)
 [![GitHub followers](https://img.shields.io/github/followers/Jeremias0618?style=social)](https://github.com/Jeremias0618)
 ![Discord Shield](https://discordapp.com/api/guilds/1085346819707506748/widget.png?style=shield)
