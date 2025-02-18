@@ -18,7 +18,7 @@
 🌱 &nbsp;I am on my way to learn more about Artificial Intelligence, System Design and Cloud Architecture.\
 ✍️ &nbsp;In my spare time, I dabble in Graphic Design and Blog Writing as hobbies.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;Feel free to email me at shinratensei569@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;Feel free to email me at yeremitantaraico@gmail.com! I'll try to respond as soon as I can.\
 📫 &nbsp;You can also contact me by writing to me at discord [Jeremias#7436 / ryukzero](https://discord.com/users/658460199807483914).
 
 ### 🛠 &nbsp;Tech Stack
